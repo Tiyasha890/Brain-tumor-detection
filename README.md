@@ -1,0 +1,2 @@
+# Brain-tumor-detection
+The brain cancer detection project is a machine learning application that uses a Convolutional neural network (CNN) to identify potential brain tumors from magnetic resonance imaging (MRI) scans. The project is implemented as a minor project, that is designed to provide hands-on experience with machine learning and image analysis techniques. The project involves collecting and preprocessing a small dataset of MRI images, training a CNN model on the dataset, and evaluating the performance of the model using various metrics
